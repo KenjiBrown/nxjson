@@ -1,5 +1,7 @@
 nxjson
+nxjson.a
 nxjson.dSYM
+libnxjson.so
 tests/*.result
 compile_commands.json
 vgcore.*

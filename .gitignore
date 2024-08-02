@@ -1,5 +1,6 @@
 nxjson
 nxjson.a
+nxjson.o
 nxjson.dSYM
 libnxjson.so
 tests/*.result
